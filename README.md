@@ -19,6 +19,7 @@ Dans le commentaire, fournissez le maximum des informations suivantes :
 > ex: On est tombés sur un groupe de PNJ en hazmat bleu qui étaient déja là avant nous en train de danser le zouk sous les palmiers. L'un des PNJ s'est ensuite deshabillé et à continué à danser nu en exhibant son sexe.
 - **Comment reproduire** le problème ? Donnez les différentes étapes s'il faut suivre une procédure pour reproduire le problème.
 > ex: Impossible de reproduire le problème malgré nos tentatives. *(mentez pas, dites si vous avez essayé hein)*
+
 > ex: Il suffit de retourner en H13 à la tombée de la nuit, ils sont là tous les soirs visiblement.
 - **Comportement normal attendu.** Décrivez juste rapidement ce qu'il aurait du se passer.
 > ex: Les PNJ ne sont pas censés danser le zouk.
