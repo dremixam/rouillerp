@@ -2,10 +2,10 @@
 
 Pour signaler un bug/problème relatif au serveur rouilleRP, procéder comme suit :
 
-1. Cliquez sur [Issues](/dremixam/rouillerp/issues)
+1. Cliquez sur [Issues](https://github.com/dremixam/rouillerp/issues)
 2. Parcourez la liste des problèmes connus non résolus afin de voir si votre problème a déja été signalé
     - Si le problème est déja connu, ajoutez un commentaire avec tous les détails qui vous sembleraient utiles (voir liste plus bas), n'hésitez pas à confirmer les informations déja fournies par les autres joueurs
-3. Si le problème est nouveau cliquez sur [New Issue](/dremixam/rouillerp/issues/new/choose)
+3. Si le problème est nouveau cliquez sur [New Issue](https://github.com/dremixam/rouillerp/issues/new/choose)
 4. Saisissez un titre descriptif mais succint (ex. "Les PNJ humains dansent nu sous les palmiers")
 5. Dans le champ *leave a comment*, décrivez le problème le plus précisément possible en donnant un maximum de détails (voir la liste en dessous)
 
