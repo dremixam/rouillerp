@@ -14,7 +14,7 @@ Pour signaler un bug/problème relatif au serveur rouilleRP, procéder comme sui
 Dans le commentaire, fournissez le maximum des informations suivantes :
 
 - **Circonstances précises** dans lesquelles le problème est survenu (**Où ?, quand ?, comment ?**)
-> ex: Hier vers 17h irl, en se balladant simplement dans le désert à la tombée de la nuit ingame
+> ex: Hier vers 17h irl, en se balladant simplement dans le désert en case h13 à la tombée de la nuit ingame
 - **Description précise** du problème. Restez concis mais précis svp. Décrivez le plus factuellement possible ce que vous avez constaté.
 > ex: On est tombés sur un groupe de PNJ en hazmat bleu qui étaient déja là avant nous en train de danser le zouk sous les palmiers. L'un des PNJ s'est ensuite deshabillé et à continué à danser nu en exhibant son sexe.
 - **Comment reproduire** le problème ? Donnez les différentes étapes s'il faut suivre une procédure pour reproduire le problème.
